@@ -1,0 +1,49 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: Verdana,sans-serif;
+    text-align: center;
+    background-color: brown;
+    colour:purple
+}
+    
+
+.formContainer{
+    justify-content: center;
+    width: 100%;
+    background-color: lightblue;
+    color: aqua;
+    padding: 20px;
+    max-width: 300px;
+}
+formlable{
+    display: flex;
+    margin-bottom: 10px;
+    font-weight: bold
+   
+}
+form button{
+    background-color: blue;
+    color: aqua;
+    cursor: pointer;
+    font-weight: bold;
+}
+form{
+    margin: 20px;
+    margin: 50px;
+    text-align: left;
+}
+table{
+    margin: 50px auto;
+    width: 80%;
+    color: pink;
+}
+nav ul{
+    padding: 0;
+    margin: 0%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
